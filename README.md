@@ -1,0 +1,13 @@
+# mido-user 7.0 NRD90M V11.0.2.0.NCFMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8953
+- codename: mido
+- flavor: mido-user
+- release: 7.0
+- id: NRD90M
+- incremental: V11.0.2.0.NCFMIXM
+- tags: release-keys
+- fingerprint: xiaomi/mido/mido:7.0/NRD90M/V11.0.2.0.NCFMIXM:user/release-keys
+- brand: xiaomi
+- branch: mido-user-7.0-NRD90M-V11.0.2.0.NCFMIXM-release-keys
+- repo: xiaomi_mido_dump
